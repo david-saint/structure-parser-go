@@ -1,0 +1,72 @@
+[
+    {
+        "element": "html",
+        "attributes": [
+            {
+                "key": "lang",
+                "value": "en"
+            }
+        ],
+        "children": [
+            {
+                "element": "head",
+                "children": [
+                    {
+                        "element": "meta",
+                        "attributes": [
+                            {
+                                "key": "charset",
+                                "value": "UTF-8"
+                            }
+                        ]
+                    },
+                    {
+                        "element": "meta",
+                        "attributes": [
+                            {
+                                "key": "name",
+                                "value": "viewport"
+                            },
+                            {
+                                "key": "content",
+                                "value": "width=device-width, initial-scale=1.0"
+                            }
+                        ]
+                    },
+                    {
+                        "element": "title",
+                        "children": [
+                            {
+                                "element": "text",
+                                "value": "Fuck you Somto"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "element": "body",
+                "children": [
+                    {
+                        "element": "h1",
+                        "children": [
+                            {
+                                "element": "text",
+                                "value": "Methods"
+                            }
+                        ]
+                    },
+                    {
+                        "element": "p",
+                        "children": [
+                            {
+                                "element": "text",
+                                "value": "Although this is better than the first version of this code, we can improve it significantly by using a special type of function known as a method"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
